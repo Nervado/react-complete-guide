@@ -60,7 +60,7 @@ const App = props => {
         })}
       </div>
     )
-
+    //teste
     style.backgroundColor = 'red'
     style[':hover'] = {
       backgroundColor: 'lightred',
